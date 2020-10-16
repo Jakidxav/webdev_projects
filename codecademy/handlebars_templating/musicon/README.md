@@ -6,4 +6,6 @@ Musicon has three separate web pages: a home page, a store page, and a contacts 
 - Built out semantic templates using a client-side templating engine: [Handlebars](https://handlebarsjs.com/)
 - Displayed relevant information using JavaScript objects, arrays, and control flow alongside built-in Handlebars iteration and control flow helpers
 
-![Screenshot](music_store.png)
+<p align="center">
+  <img src="music_store.png" alt="website contact page image"/>
+</p>
